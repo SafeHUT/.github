@@ -14,7 +14,7 @@ SafeHUT is a privacy-focused mobile application designed as an all-in-one platfo
 
 | Secure Chat Rooms | Privacy Browser | Account & Security |
 | :---: | :---: | :---: |
-| <img src="assets/chat_preview.png" width="250" alt="Chat UI"/> | <img src="assets/browser_preview.png" width="250" alt="Browser UI"/> | <img src="assets/security_preview.png" width="250" alt="Security Settings"/> |
+| <img src="chat_preview.png" width="250" alt="Chat UI"/> | <img src="browser_preview.png" width="250" alt="Browser UI"/> | <img src="security_preview.png" width="250" alt="Security Settings"/> |
 
 ## 🛠️ Tech Stack
 
