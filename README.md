@@ -12,8 +12,6 @@ SafeHUT is a privacy-focused mobile application designed as an all-in-one platfo
 
 ## 📸 Screenshots
 
-*(Replace the placeholder image paths below with actual images once uploaded to your repository)*
-
 | Secure Chat Rooms | Privacy Browser | Account & Security |
 | :---: | :---: | :---: |
 | <img src="assets/chat_preview.png" width="250" alt="Chat UI"/> | <img src="assets/browser_preview.png" width="250" alt="Browser UI"/> | <img src="assets/security_preview.png" width="250" alt="Security Settings"/> |
@@ -45,7 +43,7 @@ SafeHUT is a privacy-focused mobile application designed as an all-in-one platfo
     cd backend
     npm install
     # Set up your .env file with your PostgreSQL credentials and WebSocket config
-    npm start
+    npm run dev
     ```
 
 3.  **Frontend Setup:**
